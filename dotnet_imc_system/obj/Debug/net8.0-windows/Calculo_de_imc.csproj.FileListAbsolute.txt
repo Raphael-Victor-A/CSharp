@@ -1,0 +1,16 @@
+C:\Estudos\Calculo_de_imc\bin\Debug\net8.0-windows\Calculo_de_imc.exe
+C:\Estudos\Calculo_de_imc\bin\Debug\net8.0-windows\Calculo_de_imc.deps.json
+C:\Estudos\Calculo_de_imc\bin\Debug\net8.0-windows\Calculo_de_imc.runtimeconfig.json
+C:\Estudos\Calculo_de_imc\bin\Debug\net8.0-windows\Calculo_de_imc.dll
+C:\Estudos\Calculo_de_imc\bin\Debug\net8.0-windows\Calculo_de_imc.pdb
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.Form1.resources
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.csproj.GenerateResource.cache
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.AssemblyInfoInputs.cache
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.AssemblyInfo.cs
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.csproj.CoreCompileInputs.cache
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.dll
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\refint\Calculo_de_imc.dll
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.pdb
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\Calculo_de_imc.genruntimeconfig.cache
+C:\Estudos\Calculo_de_imc\obj\Debug\net8.0-windows\ref\Calculo_de_imc.dll

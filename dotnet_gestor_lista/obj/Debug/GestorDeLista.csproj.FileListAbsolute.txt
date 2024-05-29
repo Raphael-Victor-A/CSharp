@@ -1,0 +1,10 @@
+C:\Estudos\GestorDeLista\bin\Debug\GestorDeLista.exe.config
+C:\Estudos\GestorDeLista\bin\Debug\GestorDeLista.exe
+C:\Estudos\GestorDeLista\bin\Debug\GestorDeLista.pdb
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.csproj.AssemblyReference.cache
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.Form1.resources
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.Properties.Resources.resources
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.csproj.GenerateResource.cache
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.csproj.CoreCompileInputs.cache
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.exe
+C:\Estudos\GestorDeLista\obj\Debug\GestorDeLista.pdb

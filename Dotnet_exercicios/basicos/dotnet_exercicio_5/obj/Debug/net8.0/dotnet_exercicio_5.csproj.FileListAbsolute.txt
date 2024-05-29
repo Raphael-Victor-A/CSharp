@@ -1,0 +1,15 @@
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\bin\Debug\net8.0\dotnet_exercicio_5.exe
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\bin\Debug\net8.0\dotnet_exercicio_5.deps.json
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\bin\Debug\net8.0\dotnet_exercicio_5.runtimeconfig.json
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\bin\Debug\net8.0\dotnet_exercicio_5.dll
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\bin\Debug\net8.0\dotnet_exercicio_5.pdb
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.AssemblyInfoInputs.cache
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.AssemblyInfo.cs
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.sourcelink.json
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.dll
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\refint\dotnet_exercicio_5.dll
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.pdb
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\dotnet_exercicio_5.genruntimeconfig.cache
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_5\obj\Debug\net8.0\ref\dotnet_exercicio_5.dll

@@ -1,0 +1,5 @@
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_3\obj\Debug\net8.0\dotnet_exercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_3\obj\Debug\net8.0\dotnet_exercicio_3.AssemblyInfoInputs.cache
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_3\obj\Debug\net8.0\dotnet_exercicio_3.AssemblyInfo.cs
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_3\obj\Debug\net8.0\dotnet_exercicio_3.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet_exercicios_prog\dotnet_exercicios_basicos\dotnet_exercicio_3\obj\Debug\net8.0\dotnet_exercicio_3.sourcelink.json
