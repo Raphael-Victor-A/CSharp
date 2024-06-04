@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9R5pkMRa7E220j86wrr4NgaOgY+8F/vEDhg6Fm1LmGlMwVSIx1tkhqrPly5UFpGX9jhA2fM0G9OJU6AX+uAetw==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\CSharp\\dotnet_tamagotchi\\dotnet_tamagotchi\\dotnet_tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rapha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rapha\\.nuget\\packages\\restsharp\\111.2.0\\restsharp.111.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
